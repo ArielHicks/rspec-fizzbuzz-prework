@@ -1,6 +1,6 @@
 #We expect fizzbuzz(3) to return "Fizz"
 describe "fizzbuzz" do
-  it 'returns "Fizz" when th enumber is divisible by 3' do
+  it 'returns "Fizz" when the enumber is divisible by 3' do
     fizz_3 = fizzbuzz(3)
   end
 end
