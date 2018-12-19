@@ -1,4 +1,5 @@
 #We expect fizzbuzz(3) to return "Fizz"
+fizzbuzz(3) === "Fizz"
 describe "fizzbuzz" do
   it 'returns "Fizz" when the number is divisible by 3' do
     fizz_3 = fizzbuzz(3)
